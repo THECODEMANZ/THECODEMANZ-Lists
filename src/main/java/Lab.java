@@ -73,6 +73,7 @@ public class Lab {
     public int get(List<Integer> list, int index){
         
         return list.get(index);
+        
     }
 
     /**
